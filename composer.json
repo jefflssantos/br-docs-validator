@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Jefflssantos\\BrDocsValidatorServiceProvider"
+                "Jefflssantos\\BrDocsValidator\\BrDocsValidatorServiceProvider"
             ]
         }
     }
